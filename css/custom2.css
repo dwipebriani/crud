@@ -1,0 +1,17 @@
+body{
+	background: url(../gambar/smk.png) no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.card-header{
+	font-size:1000;
+	font-family: arial;
+	background-color: #c79a5f;
+}
+
+.card-body{
+ background-color: #e9d397;
+}
